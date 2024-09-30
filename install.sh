@@ -2,7 +2,7 @@ apt update && apt upgrade -y
 apt install -y git
 
 git clone https://github.com/alikberg123/python.git
-cd python
+cd /date/data/com.termux/files/home/python
 apt install -y python3
 pip install --upgrade pip
 pip install -r python/requirements.txt
